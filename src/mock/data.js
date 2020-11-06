@@ -2,56 +2,56 @@ import { nanoid } from 'nanoid';
 
 // HEAD DATA
 export const headData = {
-  title: '', // e.g: 'Name | Developer'
-  lang: '', // e.g: en, es, fr, jp
-  description: '', // e.g: Welcome to my website
+  title: 'Syed Ammar Ilyas', // e.g: 'Name | Developer'
+  lang: 'en', // e.g: en, es, fr, jp
+  description: 'Welcome to my website', // e.g: Welcome to my website
 };
 
 // HERO DATA
 export const heroData = {
   title: '',
-  name: '',
-  subtitle: '',
+  name: 'Syed Ammar Ilyas',
+  subtitle: 'im a Developer, Designer, Data Scientist & IT Specialist',
   cta: '',
 };
 
 // ABOUT DATA
 export const aboutData = {
-  img: 'profile.jpg',
+  img: 'profile.jpeg',
   paragraphOne: '',
   paragraphTwo: '',
   paragraphThree: '',
-  resume: 'https://www.resumemaker.online/es.php', // if no resume, the button will not show up
+  resume: '', // if no resume, the button will not show up
 };
 
 // PROJECTS DATA
 export const projectsData = [
   {
     id: nanoid(),
-    img: 'project.jpg',
-    title: '',
-    info: '',
+    img: '222.png',
+    title: 'Boutique Fur Gallery',
+    info: 'A luxury fur fashion boutique',
     info2: '',
-    url: '',
-    repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
+    url: 'https://boutiquefurgallery.com',
+    repo: '', // if no repo, the button will not show up
   },
   {
     id: nanoid(),
-    img: 'project.jpg',
-    title: '',
-    info: '',
+    img: 'be.JPG',
+    title: 'Buddy Electronics',
+    info: 'Electronics Engineering Ecommerce Store',
     info2: '',
-    url: '',
-    repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
+    url: 'https://buddyelectronics.com',
+    repo: '', // if no repo, the button will not show up
   },
   {
     id: nanoid(),
-    img: 'project.jpg',
-    title: '',
-    info: '',
+    img: 'pf.JPG',
+    title: 'Pak Fragrances',
+    info: 'Discussion forum and database for perfumes',
     info2: '',
-    url: '',
-    repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
+    url: 'https://pakfragrances.com',
+    repo: '', // if no repo, the button will not show up
   },
 ];
 
@@ -59,7 +59,7 @@ export const projectsData = [
 export const contactData = {
   cta: '',
   btn: '',
-  email: '',
+  email: 'syedammarilyas@hotmail.com',
 };
 
 // FOOTER DATA
@@ -67,28 +67,28 @@ export const footerData = {
   networks: [
     {
       id: nanoid(),
-      name: 'twitter',
-      url: '',
+      name: 'facebook',
+      url: 'https://www.facebook.com/syedammarilyas',
     },
     {
       id: nanoid(),
-      name: 'codepen',
-      url: '',
+      name: 'instagram',
+      url: 'https://www.instagram.com/syedammarilyas/',
     },
     {
       id: nanoid(),
       name: 'linkedin',
-      url: '',
+      url: 'https://www.linkedin.com/in/syedammarilyas/',
     },
     {
       id: nanoid(),
       name: 'github',
-      url: '',
+      url: 'https://github.com/syedammar111',
     },
-  ],
+      ],
 };
 
 // Github start/fork buttons
 export const githubButtons = {
-  isEnabled: true, // set to false to disable the GitHub stars/fork buttons
+  isEnabled: false, // set to false to disable the GitHub stars/fork buttons
 };
