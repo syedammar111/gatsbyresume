@@ -37,7 +37,7 @@ export const projectsData = [
   },
   {
     id: nanoid(),
-    img: 'be.JPG',
+    img: 'buddy.JPG',
     title: 'Buddy Electronics',
     info: 'Electronics Engineering Ecommerce Store',
     info2: '',
@@ -46,7 +46,7 @@ export const projectsData = [
   },
   {
     id: nanoid(),
-    img: 'pf.JPG',
+    img: 'pakfrag.JPG',
     title: 'Pak Fragrances',
     info: 'Discussion forum and database for perfumes',
     info2: '',
