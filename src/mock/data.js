@@ -46,7 +46,7 @@ export const projectsData = [
   },
   {
     id: nanoid(),
-    img: 'pakfrag.JPG',
+    img: 'pakfrag1.JPG',
     title: 'Pak Fragrances',
     info: 'Discussion forum and database for perfumes',
     info2: '',
