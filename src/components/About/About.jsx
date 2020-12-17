@@ -46,7 +46,7 @@ const About = () => {
                     'Well organized, problem solver with an eye of high attention to details.'}
                 </p>
                 <p className="about-wrapper__info-text">
-                  {paragraphThree || 'Interested in the entire front end spectrum working on amnbitious projects with positive people as well as IT automation and technical support.'}
+                  {paragraphThree || 'Interested in the entire front end spectrum working on ambitious projects with positive people as well as IT automation and technical support.'}
                 </p>
                 {resume && (
                   <span className="d-flex mt-3">
