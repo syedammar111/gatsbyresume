@@ -53,6 +53,15 @@ export const projectsData = [
     url: 'https://pakfragrances.com',
     repo: '', // if no repo, the button will not show up
   },
+  {
+    id: nanoid(),
+    img: 'byt.JPG',
+    title: 'Book Your Table',
+    info: 'Restaurant Table Reservation System',
+    info2: '',
+    url: 'http://byt.epizy.com/',
+    repo: '', // if no repo, the button will not show up
+  },
 ];
 
 // CONTACT DATA
