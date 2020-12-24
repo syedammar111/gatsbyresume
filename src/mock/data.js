@@ -50,7 +50,7 @@ export const projectsData = [
     title: 'Pak Fragrances',
     info: 'Discussion forum and database for perfumes',
     info2: '',
-    url: 'https://pakfragrances.com',
+    url: 'http://domain23d573.stackstaging.com/',
     repo: '', // if no repo, the button will not show up
   },
   {
