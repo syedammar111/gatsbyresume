@@ -40,7 +40,7 @@ export const projectsData = [
     img: 'buddy.JPG',
     title: 'Buddy Electronics',
     info: 'Electronics Engineering Ecommerce Store',
-    info2: '',
+    info2: 'Wordpress, Woocommerce, Elementor, Woolementor, CartFlows, WPForms Lite',
     url: 'https://buddyelectronics.com',
     repo: '', // if no repo, the button will not show up
   },
@@ -49,7 +49,7 @@ export const projectsData = [
     img: 'pakfrag1.JPG',
     title: 'Pak Fragrances',
     info: 'Discussion forum and database for perfumes',
-    info2: '',
+    info2: 'Gatsby JS, React basic, React router, Redux, Firebase,Stripe, Styled Components, Redux Saga, Hooks, Context API, GraphQL, Just library for test',
     url: 'http://domain23d573.stackstaging.com/',
     repo: '', // if no repo, the button will not show up
   },
@@ -58,7 +58,7 @@ export const projectsData = [
     img: 'byt.JPG',
     title: 'Book Your Table',
     info: 'Restaurant Table Reservation System',
-    info2: '',
+    info2: 'Wordpress, Blocksy, Appointment Hour Booking Brizy, Elementor',
     url: 'http://byt.epizy.com/',
     repo: '', // if no repo, the button will not show up
   },
