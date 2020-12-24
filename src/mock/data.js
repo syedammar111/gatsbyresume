@@ -58,7 +58,7 @@ export const projectsData = [
     img: 'byt.JPG',
     title: 'Book Your Table',
     info: 'Restaurant Table Reservation System',
-    info2: 'Wordpress, Blocksy, Appointment Hour Booking Brizy, Elementor',
+    info2: 'Wordpress, Blocksy, Appointment Hour Booking, Brizy, Elementor',
     url: 'http://byt.epizy.com/',
     repo: '', // if no repo, the button will not show up
   },
