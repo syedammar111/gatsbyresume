@@ -31,7 +31,7 @@ export const projectsData = [
     img: '222.png',
     title: 'Boutique Fur Gallery',
     info: 'A luxury fur fashion boutique',
-    info2: '',
+    info2: 'Shopify, Forma, SNPT Instagram, Kit, Rviyu, Rviyu, Tipo Appointment Booking',
     url: 'https://boutiquefurgallery.com',
     repo: '', // if no repo, the button will not show up
   },
