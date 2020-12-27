@@ -62,6 +62,15 @@ export const projectsData = [
     url: 'http://byt.epizy.com/',
     repo: '', // if no repo, the button will not show up
   },
+    {
+    id: nanoid(),
+    img: 'luna.JPG',
+    title: 'Luna',
+    info: 'Static Dog App',
+    info2: 'HTML, Css, Bootstrap',
+    url: 'https://mystifying-ptolemy-60393f.netlify.app/',
+    repo: 'https://github.com/syedammar111/luna', // if no repo, the button will not show up
+  },
 ];
 
 // CONTACT DATA
