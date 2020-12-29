@@ -1,2 +1,2 @@
-Gatsby portfolio
-html css javascript node git
+
+Portfolio website of syedammarilyas.com
