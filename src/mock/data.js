@@ -11,7 +11,7 @@ export const headData = {
 export const heroData = {
   title: '',
   name: 'Syed Ammar Ilyas',
-  subtitle: 'Im a designer, developer, data scientist & IT specialist',
+  subtitle: 'Im a designer, developer, data scientist & IT specialist.',
   cta: '',
 };
 
@@ -28,10 +28,11 @@ export const aboutData = {
 export const projectsData = [
   {
     id: nanoid(),
-    img: '222.png',
+    img: 'boutique21.png',
     title: 'Boutique Fur Gallery',
     info: 'A luxury fur fashion boutique',
-    info2: 'Shopify, Forma, SNPT Instagram, Kit, Rviyu, Rviyu, Tipo Appointment Booking',
+    info2:
+      'Tech stack: Shopify, Forma, SNPT Instagram, Kit, Rviyu, Rviyu, Tipo Appointment Booking',
     url: 'https://boutiquefurgallery.com',
     repo: '', // if no repo, the button will not show up
   },
@@ -40,7 +41,7 @@ export const projectsData = [
     img: 'buddy.JPG',
     title: 'Buddy Electronics',
     info: 'Electronics Engineering Ecommerce Store',
-    info2: 'Wordpress, Woocommerce, Elementor, Woolementor, CartFlows, WPForms Lite',
+    info2: 'Tech stack: Wordpress, Woocommerce, Elementor, Woolementor, CartFlows, WPForms Lite',
     url: 'https://buddyelectronics.com',
     repo: '', // if no repo, the button will not show up
   },
@@ -49,7 +50,8 @@ export const projectsData = [
     img: 'pakfrag1.JPG',
     title: 'Pak Fragrances',
     info: 'Discussion forum and database for perfumes',
-    info2: 'Gatsby JS, React basic, React router, Redux, Firebase,Stripe, Styled Components, Redux Saga, Hooks, Context API, GraphQL, Just library for test',
+    info2:
+      'Tech stack: Gatsby JS, React basic, React router, Redux, Firebase,Stripe, Styled Components, Redux Saga, Hooks, Context API, GraphQL, Just library for test',
     url: 'http://domain23d573.stackstaging.com/',
     repo: '', // if no repo, the button will not show up
   },
@@ -58,18 +60,36 @@ export const projectsData = [
     img: 'byt.JPG',
     title: 'Book Your Table',
     info: 'Restaurant Table Reservation System',
-    info2: 'Wordpress, Blocksy, Appointment Hour Booking, Brizy, Elementor',
+    info2: 'Tech stack: Wordpress, Blocksy, Appointment Hour Booking, Brizy, Elementor',
     url: 'http://byt.epizy.com/',
     repo: '', // if no repo, the button will not show up
   },
-    {
+  {
     id: nanoid(),
     img: 'luna.JPG',
     title: 'Luna',
-    info: 'Static Dog App',
-    info2: 'HTML, Css, Bootstrap',
+    info: 'Static dog app website',
+    info2: 'Tech stack: HTML, Css, Bootstrap',
     url: 'https://mystifying-ptolemy-60393f.netlify.app/',
     repo: 'https://github.com/syedammar111/luna', // if no repo, the button will not show up
+  },
+  {
+    id: nanoid(),
+    img: 'miniprojects.JPG',
+    title: 'Quick and Useful toolkit',
+    info: 'A list of useful and interesting projects, quick tools & hacks',
+    info2: 'Tech stack: HTML, Css, Bootstrap, SortableJS',
+    url: '',
+    repo: 'https://github.com/syedammar111/projects_display', // if no repo, the button will not show up
+  },
+  {
+    id: nanoid(),
+    img: 'mohina.JPG',
+    title: 'Mohina website',
+    info: 'Fashion and lifestyle website',
+    info2: 'Tech stack: Wordpress, Elementor, WPForms Lite, Freenom',
+    url: 'http://mohina.gq',
+    repo: '', // if no repo, the button will not show up
   },
 ];
 
@@ -103,7 +123,7 @@ export const footerData = {
       name: 'github',
       url: 'https://github.com/syedammar111',
     },
-      ],
+  ],
 };
 
 // Github start/fork buttons

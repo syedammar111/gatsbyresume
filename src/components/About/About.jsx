@@ -39,14 +39,15 @@ const About = () => {
               <div className="about-wrapper__info">
                 <p className="about-wrapper__info-text">
                   {paragraphOne ||
-                    'Professionally connected with the software development and information technology for over a decade.'}
+                    'Professionally connected with the software development and Information Technology for over a decade.'}
                 </p>
                 <p className="about-wrapper__info-text">
                   {paragraphTwo ||
-                    'Well organized, problem solver with an eye of high attention to details.'}
+                    'Well organized, problem solver with high level of attention to details.'}
                 </p>
                 <p className="about-wrapper__info-text">
-                  {paragraphThree || 'Interested in the entire front end spectrum working on ambitious projects with positive people as well as IT automation and technical support.'}
+                  {paragraphThree ||
+                    'Interested in the entire full stack spectrum working on ambitious projects with positive people as well as IT automation and technical support.'}
                 </p>
                 {resume && (
                   <span className="d-flex mt-3">
