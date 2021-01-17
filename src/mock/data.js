@@ -86,9 +86,18 @@ export const projectsData = [
     id: nanoid(),
     img: 'mohina.JPG',
     title: 'Mohina website',
-    info: 'Fashion and lifestyle website',
-    info2: 'Tech stack: Wordpress, Elementor, WPForms Lite, Freenom',
-    url: 'http://mohina.gq',
+    info: 'Fashion, lifestyle & Estore website',
+    info2: 'Tech stack: Wordpress, Elementor, WPForms Lite, Freenom, Woolementor, Woocomerce',
+    url: 'http://imhina.gq',
+    repo: '', // if no repo, the button will not show up
+  },
+  {
+    id: nanoid(),
+    img: 'smilyas.JPG',
+    title: 'Syed Muhammad Ilyas book website',
+    info: 'Author and Ebook website',
+    info2: 'Tech stack: Wordpress, Elementor, WPForms Lite, Freenom, Woolementor, Woocomerce',
+    url: 'http://smilyas.gq',
     repo: '', // if no repo, the button will not show up
   },
 ];
