@@ -11,7 +11,7 @@ export const headData = {
 export const heroData = {
   title: '',
   name: 'Syed Ammar Ilyas',
-  subtitle: 'Im a designer, developer, data scientist & IT specialist.',
+  subtitle: 'Im a Designer, Developer, Data scientist & an IT Specialist.',
   cta: '',
 };
 
@@ -30,7 +30,7 @@ export const projectsData = [
     id: nanoid(),
     img: 'boutique21.png',
     title: 'Boutique Fur Gallery',
-    info: 'A luxury fur fashion boutique',
+    info: 'A luxury Fur Fashion Boutique',
     info2:
       'Tech stack: Shopify, Forma, SNPT Instagram, Kit, Rviyu, Rviyu, Tipo Appointment Booking',
     url: 'https://boutiquefurgallery.com',
@@ -49,10 +49,10 @@ export const projectsData = [
     id: nanoid(),
     img: 'pakfrag1.JPG',
     title: 'Pak Fragrances',
-    info: 'Discussion forum and database for perfumes',
+    info: 'Discussion forum and database for Fragrances',
     info2:
       'Tech stack: Gatsby JS, React basic, React router, Redux, Firebase,Stripe, Styled Components, Redux Saga, Hooks, Context API, GraphQL, Just library for test',
-    url: 'http://domain23d573.stackstaging.com/',
+    url: 'http://pakfragrances.ml/',
     repo: '', // if no repo, the button will not show up
   },
   {
