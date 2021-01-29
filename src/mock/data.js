@@ -79,7 +79,7 @@ export const projectsData = [
     title: 'Quick and Useful toolkit',
     info: 'A list of useful and interesting projects, quick tools & hacks',
     info2: 'Tech stack: HTML, Css, Bootstrap, SortableJS',
-    url: '',
+    url: 'https://nostalgic-mahavira-c43303.netlify.app/',
     repo: 'https://github.com/syedammar111/projects_display', // if no repo, the button will not show up
   },
   {
@@ -116,6 +116,11 @@ export const footerData = {
       id: nanoid(),
       name: 'facebook',
       url: 'https://www.facebook.com/syedammarilyas',
+    },
+    {
+      id: nanoid(),
+      name: 'dribbble',
+      url: 'https://dribbble.com/syedammar',
     },
     {
       id: nanoid(),
